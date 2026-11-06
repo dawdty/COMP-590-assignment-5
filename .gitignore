@@ -1,0 +1,31 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+# IDE generated files
+/.vscode/
+/.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# Local backups and already-uploaded video
+/Assignment5-Backup/
+/Demo.mp4
+/Preview.png
+# Operating system files
+.DS_Store
+Thumbs.db
